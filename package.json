@@ -1,6 +1,6 @@
 {
-  "name": "fast-catch-cheese",
-  "version": "0.0.2",
+  "name": "fast-catch-cheese1212",
+  "version": "0.0.3",
   "description": "短小精悍的前端缓存工具，防止内存‘侧漏’",
   "main": "src/index.js",
   "scripts": {
