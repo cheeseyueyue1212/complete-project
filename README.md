@@ -25,7 +25,7 @@
 3.终端运行 ssh-keygen 即可生成ssh key ,然后运行 pbcopy < ~/.ssh/id_rsa.pub 即可拷贝下来，等待粘贴。
 4. 在github个人中心的设置界面，找到SSH and GPS keys 菜单栏，点击右侧‘new ssh key’ 按钮即可添加ssh key,把刚才的内容粘贴过来就添加上了。
 5. 修改用户名： git config user.name 'new name'
-修改邮箱：git config user.email 'fast-catch@gemail.com'
+修改邮箱：git config user.email 'cheese-first-npm@gemail.com'
 
 6. npm init 创建一个项目 
 7. npm i babel-core babel-loader babel-polyfill babel-preset-es2015 babel-preset-latest webpack webpack-cli --save-dev
