@@ -4,7 +4,7 @@
 ## 简介
 
 ## 安装下载
-
+ - 下载地址：https://github.com/cheeseyueyue1212/complete-project/releases/tag/v0.0.1
 
 ## 快速使用
 
@@ -68,4 +68,7 @@ package.json文件修改script 对象添加： example : "http-server -p 8880" /
 16. 创建doc目录： gitbook init 
     然后完成文档
 17. gitbook build
-18. 
+18. 在localhost:8880/_book/index.html 里即可看到文档
+19. 设置第一版本： git tag -a 'v0.0.1' -m '第一版本'
+                git push origin v0.0.1
+##  视频来源： https://www.imooc.com/t/4427201
